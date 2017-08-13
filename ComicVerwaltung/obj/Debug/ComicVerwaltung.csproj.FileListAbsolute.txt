@@ -1,0 +1,5 @@
+c:\users\michael dlugosch\documents\visual studio 2017\Projects\ComicVerwaltung\ComicVerwaltung\bin\Debug\ComicVerwaltung.exe.config
+c:\users\michael dlugosch\documents\visual studio 2017\Projects\ComicVerwaltung\ComicVerwaltung\bin\Debug\ComicVerwaltung.exe
+c:\users\michael dlugosch\documents\visual studio 2017\Projects\ComicVerwaltung\ComicVerwaltung\bin\Debug\ComicVerwaltung.pdb
+c:\users\michael dlugosch\documents\visual studio 2017\Projects\ComicVerwaltung\ComicVerwaltung\obj\Debug\ComicVerwaltung.exe
+c:\users\michael dlugosch\documents\visual studio 2017\Projects\ComicVerwaltung\ComicVerwaltung\obj\Debug\ComicVerwaltung.pdb
